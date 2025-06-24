@@ -13,3 +13,4 @@ The scanner will analyze the URL and print warnings if it detects any suspicious
 <h3>Example Output:</h3>
 The output is attached with the project.
 
+![Image](https://github.com/user-attachments/assets/25335288-d7cf-4061-9a45-6fa24645d1a6)
