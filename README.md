@@ -11,4 +11,5 @@
 To use the scanner, run the script, and it will prompt you to enter a URL.<br>
 The scanner will analyze the URL and print warnings if it detects any suspicious characteristics.
 <h3>Example Output:</h3>
-When a user inputs a URL, the scanner might output messages like:
+The output is attached with the project.
+
